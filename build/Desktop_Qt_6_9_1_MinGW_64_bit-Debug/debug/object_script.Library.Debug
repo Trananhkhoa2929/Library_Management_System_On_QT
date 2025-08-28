@@ -1,0 +1,15 @@
+debug/userfactory.o
+debug/book.o
+debug/faculty.o
+debug/librarian.o
+debug/person.o
+debug/student.o
+debug/transaction.o
+debug/consolenotification.o
+debug/emailnotification.o
+debug/databasemanager.o
+debug/libraryservice.o
+debug/notificationservice.o
+debug/main.o
+debug/moc_emailnotification.o
+debug/moc_notificationservice.o

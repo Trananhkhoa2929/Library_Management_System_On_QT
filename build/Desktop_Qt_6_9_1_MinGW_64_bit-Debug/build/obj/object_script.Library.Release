@@ -1,0 +1,15 @@
+build/obj/userfactory.o
+build/obj/book.o
+build/obj/faculty.o
+build/obj/librarian.o
+build/obj/person.o
+build/obj/student.o
+build/obj/transaction.o
+build/obj/consolenotification.o
+build/obj/emailnotification.o
+build/obj/databasemanager.o
+build/obj/libraryservice.o
+build/obj/notificationservice.o
+build/obj/main.o
+build/obj/moc_emailnotification.o
+build/obj/moc_notificationservice.o

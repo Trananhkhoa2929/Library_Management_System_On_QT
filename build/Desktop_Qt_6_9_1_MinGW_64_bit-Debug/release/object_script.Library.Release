@@ -1,0 +1,15 @@
+release/userfactory.o
+release/book.o
+release/faculty.o
+release/librarian.o
+release/person.o
+release/student.o
+release/transaction.o
+release/consolenotification.o
+release/emailnotification.o
+release/databasemanager.o
+release/libraryservice.o
+release/notificationservice.o
+release/main.o
+release/moc_emailnotification.o
+release/moc_notificationservice.o
