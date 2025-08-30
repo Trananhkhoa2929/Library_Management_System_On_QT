@@ -34,7 +34,7 @@ Cấu trúc dự án
 Ứng dụng được chia theo lớp: GUI, Services, Models, Factories, Resources.
 
 Ví dụ cây thư mục (quan sát trong repo):
-.
+```markdown
 ├── Library.pro
 ├── main.cpp
 ├── Resources.qrc
@@ -56,7 +56,7 @@ Ví dụ cây thư mục (quan sát trong repo):
 │   └── Transaction.*
 └── factories/
     └── UserFactory.*
-
+```
 Các file chính:
 - Library.pro — project qmake
 - main.cpp — khởi tạo app, DB và UI
