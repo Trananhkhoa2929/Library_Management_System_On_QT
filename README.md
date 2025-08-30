@@ -1,4 +1,4 @@
-```markdown
+
 # EduLibrary Manager
 
 EduLibrary Manager là một ứng dụng quản lý thư viện dành cho máy tính, được xây dựng bằng C++ (C++17), Qt (Widgets, Core, SQL) và SQLite. Dự án cung cấp giao diện trực quan để quản lý sách, người dùng và các giao dịch mượn/trả — phù hợp làm ví dụ học tập hoặc nền tảng để mở rộng.
@@ -103,7 +103,7 @@ make -j$(nproc)                         # macOS: make
 ./EduLibraryManager
 ```
 
-Cách 2 — Dòng lệnh (Windows, MinGW / MSVC)
+Cách 3 — Dòng lệnh (Windows, MinGW / MSVC)
 - Mở Qt Command Prompt tương ứng (MinGW hoặc MSVC) để qmake có trong PATH.
 
 MinGW:
